@@ -4,7 +4,13 @@ body{
 }
 h1{
     text-align: center;
+    color: maroon;
 }
+h2{
+    text-align: center;
+    color: maroon;
+}
+
 p{
     text-align: center;
 }
