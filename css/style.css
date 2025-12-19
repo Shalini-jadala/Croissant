@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.links{
+   justify-content: center;
+    display: flex;
+    gap: 20px;
+
+
+}
+
+
+.croissant-photo{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 20px;
+}
